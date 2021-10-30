@@ -1,0 +1,23 @@
+{
+    "name": "noxus",
+    "version": "1.0.0",
+    "description": "noxus 诺克萨斯脚手架",
+    "main": "index.js",
+    "bin": {
+        "noxus": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "commander": "^8.2.0",
+        "download-git-repo": "^3.0.2"
+    },
+    "devDependencies": {
+        "@types/node": "^16.11.4"
+    }
+}
