@@ -12,6 +12,6 @@ helpOptions();
 // 创建其他指令
 createCommands();
 
-// ceshi 
+// ceshi 1111
 
 program.parse(process.argv);
