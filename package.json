@@ -1,6 +1,6 @@
 {
     "name": "noxus",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "noxus 诺克萨斯脚手架",
     "main": "index.js",
     "bin": {
